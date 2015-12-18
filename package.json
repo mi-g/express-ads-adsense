@@ -1,0 +1,8 @@
+{
+	"name": "express-ads-adsense",
+	"version": "0.0.1-alpha.1",
+	"private": "true",
+	"main": "adsense.js",
+	"dependencies": {
+	}
+}
