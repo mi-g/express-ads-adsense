@@ -1,4 +1,4 @@
-Express Ads - AsSense extension
+Express Ads - AdSense extension
 ===============================
 
-The module extends Express Ads to allow serving ads from AdSense
+The module extends [express-ads](https://github.com/mi-g/express-ads) to allow serving ads from AdSense
