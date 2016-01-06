@@ -1,8 +1,23 @@
 {
 	"name": "express-ads-adsense",
-	"version": "0.0.1-alpha.1",
-	"private": "true",
+	"version": "0.0.1",
 	"main": "adsense.js",
-	"dependencies": {
-	}
+	"description":"AdSense add-on for express-ads: Ads distribution and management module for Express",
+	"keywords":[
+		"express",
+		"ads",
+		"express-ads",
+		"adsense",
+		"openx",
+		"dfp"
+   	],
+   	"homepage": "https://github.com/mi-g/express-ads-adsense",
+   	"bugs": "https://github.com/mi-g/express-ads-adsense/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mi-g/express-ads-adsense.git"
+	},
+   	"author":"Michel Gutierrez",
+	"contributors": "https://github.com/mi-g/express-ads-adsense/graphs/contributors",
+	"license":"MPL-2.0"
 }
